@@ -1,2 +1,8 @@
-# log-de-programi
-logica de programaçao
+// Print "Hello World!" message
+
+package main
+import "fmt"
+
+func main() {
+  fmt.Println("Hello World!")
+}
