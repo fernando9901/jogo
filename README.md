@@ -1,8 +1,3 @@
-// Print "Hello World!" message
-
-package main
-import "fmt"
-
-func main() {
-  fmt.Println("Hello World!")
-}
+package main;
+public class Main {
+public static void main(String [ ] args) {
